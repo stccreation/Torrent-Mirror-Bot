@@ -62,7 +62,7 @@
     },
     "SECRET_JSON": {
       "description": "Get it by running python3 generate_drive_token.py",
-      "value": ""
+      "value": "{"access_token": "ya29.A0AfH6SMAZg4vyxRvEk5X_E-Q19wLq9IgACv142GzUesQb0MdYHNqofP-r34xGKCbZnq7C0mz2tfpWOv1oBlKAsC9ooQZl72rzQKcPhZy1Vcur9IWHZObcZh2xT-SnZ7Y773VHxosxwGACemqqcojnAeBlNh4N", "client_id": "331042129948-aca4rugf0rg0jt5b7b8ugvf7tb1qkmfo.apps.googleusercontent.com", "client_secret": "4EbTE2kd4srwx4iIjkuVyO-3", "refresh_token": "1//0gs96R2a-AJ_4CgYIARAAGBASNwF-L9IrO7UhtatLKkbCRZ73_o1E-qiSLjhh0xjO62gcpHNsv3IWIOpuLqZP4xQkpf9ayn6IitY", "token_expiry": "2021-02-25T12:09:33Z", "token_uri": "https://oauth2.googleapis.com/token", "user_agent": null, "revoke_uri": "https://oauth2.googleapis.com/revoke", "id_token": null, "id_token_jwt": null, "token_response": {"access_token": "ya29.A0AfH6SMAZg4vyxRvEk5X_E-Q19wLq9IgACv142GzUesQb0MdYHNqofP-r34xGKCbZnq7C0mz2tfpWOv1oBlKAsC9ooQZl72rzQKcPhZy1Vcur9IWHZObcZh2xT-SnZ7Y773VHxosxwGACemqqcojnAeBlNh4N", "expires_in": 3599, "refresh_token": "1//0gs96R2a-AJ_4CgYIARAAGBASNwF-L9IrO7UhtatLKkbCRZ73_o1E-qiSLjhh0xjO62gcpHNsv3IWIOpuLqZP4xQkpf9ayn6IitY", "scope": "https://www.googleapis.com/auth/drive", "token_type": "Bearer"}, "scopes": ["https://www.googleapis.com/auth/drive"], "token_info_uri": "https://oauth2.googleapis.com/tokeninfo", "invalid": false, "_class": "OAuth2Credentials", "_module": "oauth2client.client"}"
     },
     "INDEX_URL": {
       "description": "(Optional field) Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'",
